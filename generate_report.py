@@ -128,7 +128,7 @@ def build_pdf(filename):
 
     # 1. Title Banner
     story.append(Paragraph("A Truthful Training-Run Monitor for High-Stakes Decisions", title_style))
-    story.append(Paragraph("<b>Live App:</b> <font color='#0284c7'><u>https://shubham-dev-stack.github.io/soup-frontend-monitor/</u></font> &nbsp;|&nbsp; <b>Repo:</b> <font color='#0284c7'><u>https://github.com/Shubham-dev-stack/soup-frontend-monitor</u></font>", subtitle_style))
+    story.append(Paragraph("<b>Live App:</b> <font color='#0284c7'><u>https://programmerbaddie.github.io/soup-training-monitor/</u></font> &nbsp;|&nbsp; <b>Repo:</b> <font color='#0284c7'><u>https://github.com/programmerbaddie/soup-training-monitor</u></font>", subtitle_style))
 
     # 2. Section 1: The Core Question & Truthful Downsampling
     story.append(Paragraph("1. Data Truthfulness: Can You Show It to Someone Stopping a $500 Run?", h1_style))
@@ -252,5 +252,5 @@ def build_pdf(filename):
     print(f"Report generated successfully: {filename}")
 
 if __name__ == '__main__':
-    output_pdf = r"C:\Users\dell\.gemini\antigravity\scratch\soup-frontend-monitor\Soup_Frontend_Engineer_TakeHome_Report.pdf"
+    output_pdf = "Soup_Frontend_Engineer_TakeHome_Report.pdf"
     build_pdf(output_pdf)

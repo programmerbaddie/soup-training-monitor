@@ -18,8 +18,8 @@ A high-performance, truthful training-run monitor built for machine learning eng
 
 ## 🚀 Live Demo & Repository
 
-- **Live URL:** [https://soup-frontend-monitor.vercel.app](https://soup-frontend-monitor.vercel.app)
-- **Repository:** [https://github.com/Shubham-dev-stack/soup-frontend-monitor](https://github.com/Shubham-dev-stack/soup-frontend-monitor)
+- **Live URL:** [https://programmerbaddie.github.io/soup-training-monitor/](https://programmerbaddie.github.io/soup-training-monitor/)
+- **Repository:** [https://github.com/programmerbaddie/soup-training-monitor](https://github.com/programmerbaddie/soup-training-monitor)
 
 ---
 
